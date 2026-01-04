@@ -42,14 +42,14 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&hide_border=true&bg_color=071226&title_color=69A7FF&text_color=FFFFFF&icon_color=69A7FF" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&hide_border=true&bg_color=071226&title_color=69A7FF&text_color=FFFFFF" height="160" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USER_AQUI&hide_border=true&background=071226&ring=69A7FF&fire=69A7FF&currStreakLabel=69A7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160" />
-</p>
+</p> -->
 
 <br/>
 
