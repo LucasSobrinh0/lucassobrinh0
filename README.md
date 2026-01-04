@@ -1,5 +1,9 @@
-## Olá! Eu sou o Lucas Sobrinho
+Hi, I’m Lucas Sobrinho.
 
-- 🔭 Hoje eu trabalho com back-end
-- 🌱 Atualmente focado em automações com selenium, openpyxl, pandas e criação de plataformas utilizando Rest e WebSocket
-- 📫 Contate-me no e-mail: lucas.sobrinho.crn@gmail.com
+Backend developer focused on Python and PHP. I build APIs, automation, and high performance systems.
+
+• Cut slow features from minutes to milliseconds by redesigning pagination and optimizing MySQL queries  
+• Built RPA at scale with Selenium, regex, OpenPyXL, and Pandas  
+• Modernized legacy codebases in Symfony and Laravel, reducing duplication by ~70%  
+• Delivered real time features with REST
+• GPA 9.28/10 in Systems Analysis and Development
