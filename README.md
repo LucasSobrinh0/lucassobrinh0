@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-sobrinho-c/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1B36?style=for-the-badge&logo=linkedin&logoColor=69A7FF" />
   </a>
   <!-- <a href="https://github.com/SEU_USER_AQUI" target="_blank">
